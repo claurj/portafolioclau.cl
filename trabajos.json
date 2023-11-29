@@ -1,0 +1,59 @@
+[
+        {
+        "nombre": "Nfibia",
+        "fotos": ["https://raw.githubusercontent.com/claurj/dnm-E3-c12/main/IMG_0911.webp", "https://picsum.photos/id/30/500/310", "https://picsum.photos/id/31/500/310"],
+        "soporte": "textil",
+        "abstract": "Peluche de la ranita de Darwin que incorpora un saquito de semillas en su interior.",
+        "texto": "Diseño de patrones y confección de peluche visualizado de la anatomía real de la Ranita de Darwin. Este está hecho con crea cruda y tiene partes tintadas con patrones hechos a mano. En la parte inferior tiene un estuche con botón en el cual se incluye un guatero con semillas en forma de hoja. Pensado y diseñado para poder ser utilizado para alivianar las molestias de los dolores menstruales."
+    },
+    {
+        "nombre": "Swingtiago",
+        "fotos": ["https://raw.githubusercontent.com/claurj/dnm-E3-c12/main/IMG_1863.webp", "https://picsum.photos/id/32/500/310", "https://picsum.photos/id/33/500/310"],
+        "soporte": "interacción",
+        "abstract": "Proyecto que incorpora el diseño industrial, de interacciones y el food design.",
+        "texto": "Inspirado en la escena musical del baile clandestino, esta experiencia es un picnic que reúne recursos industriales, textiles y comida para conseguir la interacción de asemejar la coordinación y la complicidad al momento de bailar. Para comer se debe hacer de a dos personas sentadas frente a frente y con un utensilio que está atado con una cinta al del compañero, lo mismo con las servilletas."
+    },
+    {
+        "nombre": "PanAm",
+        "fotos": ["https://raw.githubusercontent.com/claurj/dnm-E3-c12/main/IMG_4255.webp", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/46/500/310"],
+        "soporte": "gráfico",
+        "abstract": "Proyecto de resideño de pictogramas para juegos panamericanos de Santiago 2023.",
+        "texto": "En el trabajo de rediseño de pictogramas para los Juegos Panamericanos Santiago 2023, se han tomado inspiraciones de cuatro animales autóctonos de Chile. Estos pictogramas representan la rica fauna de la región, capturando la esencia y la diversidad de la vida silvestre chilena. Cada uno de estos nuevos diseños comunica de manera efectiva las disciplinas deportivas relacionadas, incorporando elementos culturales y naturales que resaltan la singularidad de los juegos y honran la herencia biológica del país anfitrión."
+    },
+    {
+        "nombre": "Enredadera",
+        "fotos": ["https://raw.githubusercontent.com/claurj/dnm-E3-c12/main/IMG_4822.webp", "https://picsum.photos/id/39/500/310", "https://picsum.photos/id/130/500/310"],
+        "soporte": "industrial",
+        "abstract": "Lámpara decorativa de madera curvada.",
+        "texto": "Esta lámpara única está meticulosamente confeccionada a partir de madera de roble laminada y curvada, inspirada por la delicadeza de las enredaderas. Se esculpe a partir de una sola pieza de madera, fusionando seis secciones de roble que moldean su forma orgánica. Luego, estas secciones se cortan a diferentes alturas, añadiendo dinamismo a su diseño. Para realzar su conexión con la naturaleza, la lámpara se termina con un esmalte de pintura verde, evocando la frescura y vitalidad de la vida vegetal. Este producto artesanal combina la belleza de la madera con la elegancia de la naturaleza, creando una pieza única y armoniosa."
+    },
+    {
+        "nombre": "Cultivando Relaciones",
+        "fotos": ["https://picsum.photos/id/50/500/310", "https://picsum.photos/id/51/500/310", "https://picsum.photos/id/52/500/310"],
+        "soporte": "interacción",
+        "abstract": "Creación de comunidad a través de la jardinería.",
+        "texto": "La creación de comunidad a través de la jardinería es un proceso enriquecedor que une a las personas a través del amor por la naturaleza. Al compartir conocimientos, trabajar en equipo y cuidar de un espacio verde, se fomenta la camaradería y el compromiso mutuo. La jardinería no solo embellece entornos, sino que también fortalece los lazos entre vecinos, promoviendo la colaboración y la conexión con la tierra. Esta actividad es un puente hacia una comunidad más unida y consciente de la importancia de la sostenibilidad ambiental."
+    },
+    {
+        "nombre": "NÚsense",
+        "fotos": ["https://picsum.photos/id/43/500/310", "https://picsum.photos/id/44/500/310", "https://picsum.photos/id/45/500/310"],
+        "soporte": "interacción",
+        "abstract": "Arnés para perros guía.",
+        "texto": "El arnés para perros guía es una herramienta esencial que facilita la movilidad de las personas con discapacidad visual. Este ingenioso dispositivo se adapta cómodamente al cuerpo del perro guía y permite un control suave y efectivo para el usuario. Además de ofrecer seguridad, el arnés fortalece el vínculo entre el perro y su dueño, que confía en su compañero de cuatro patas para navegar por el mundo. Esta solución contribuye significativamente a la independencia y calidad de vida de las personas con discapacidad visual."
+    },
+    {
+        "nombre": "Euforika",
+        "fotos": ["https://picsum.photos/id/21/500/310", "https://picsum.photos/id/25/500/310", "https://picsum.photos/id/26/500/310"],
+        "soporte": "textil",
+        "abstract": "Calzado diseñado para un usuario específico",
+        "texto": "El calzado diseñado para un usuario específico representa un avance en la industria de la moda y la salud. Este tipo de calzado se adapta meticulosamente a las necesidades y preferencias individuales, considerando factores como la anatomía del pie, condiciones médicas y estilo de vida. Ya sea para atletas, personas con problemas ortopédicos o amantes de la moda, este enfoque personalizado garantiza comodidad y rendimiento óptimos. Es un testimonio de cómo la tecnología y la innovación están mejorando la calidad de vida de las personas a través del calzado."
+    },
+    {
+        "nombre": "Celtic",
+        "fotos": ["https://picsum.photos/id/90/500/310", "https://picsum.photos/id/91/500/310", "https://picsum.photos/id/92/500/310"],
+        "soporte": "textil",
+        "abstract": "Vestuario para artes escénicas y competencia",
+        "texto": "El vestuario desempeña un papel fundamental en las artes escénicas y competencias, ya que va más allá de la moda. Diseñado para realzar la actuación, transmitir emociones y complementar la narrativa, el vestuario es una herramienta creativa esencial. En el teatro, la danza o las competencias deportivas, los trajes reflejan la identidad de los personajes o equipos, aportando profundidad a la representación. Estos diseños meticulosos y adaptados garantizan un impacto visual y emocional, resaltando la importancia del vestuario en la escena y el rendimiento."
+    }
+    
+]
