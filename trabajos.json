@@ -1,6 +1,7 @@
 [
         {
         "nombre": "Nfibia",
+        "alt": "Descripción",
         "fotos": ["https://raw.githubusercontent.com/claurj/dnm-E3-c12/main/IMG_0911.webp", "https://picsum.photos/id/30/500/310", "https://picsum.photos/id/31/500/310"],
         "soporte": "textil",
         "abstract": "Peluche de la ranita de Darwin que incorpora un saquito de semillas en su interior.",
@@ -8,6 +9,7 @@
     },
     {
         "nombre": "Swingtiago",
+        "alt": "Descripción",
         "fotos": ["https://raw.githubusercontent.com/claurj/dnm-E3-c12/main/IMG_1863.webp", "https://picsum.photos/id/32/500/310", "https://picsum.photos/id/33/500/310"],
         "soporte": "interacción",
         "abstract": "Proyecto que incorpora el diseño industrial, de interacciones y el food design.",
@@ -15,6 +17,7 @@
     },
     {
         "nombre": "PanAm",
+        "alt": "Descripción",
         "fotos": ["https://raw.githubusercontent.com/claurj/dnm-E3-c12/main/IMG_4255.webp", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/46/500/310"],
         "soporte": "gráfico",
         "abstract": "Proyecto de resideño de pictogramas para juegos panamericanos de Santiago 2023.",
@@ -22,6 +25,7 @@
     },
     {
         "nombre": "Enredadera",
+        "alt": "Descripción",
         "fotos": ["https://raw.githubusercontent.com/claurj/dnm-E3-c12/main/IMG_4822.webp", "https://picsum.photos/id/39/500/310", "https://picsum.photos/id/130/500/310"],
         "soporte": "industrial",
         "abstract": "Lámpara decorativa de madera curvada.",
@@ -29,6 +33,7 @@
     },
     {
         "nombre": "Cultivando Relaciones",
+        "alt": "Descripción",
         "fotos": ["https://picsum.photos/id/50/500/310", "https://picsum.photos/id/51/500/310", "https://picsum.photos/id/52/500/310"],
         "soporte": "interacción",
         "abstract": "Creación de comunidad a través de la jardinería.",
@@ -36,6 +41,7 @@
     },
     {
         "nombre": "NÚsense",
+        "alt": "Descripción",
         "fotos": ["https://picsum.photos/id/43/500/310", "https://picsum.photos/id/44/500/310", "https://picsum.photos/id/45/500/310"],
         "soporte": "interacción",
         "abstract": "Arnés para perros guía.",
@@ -43,6 +49,7 @@
     },
     {
         "nombre": "Euforika",
+        "alt": "Descripción",
         "fotos": ["https://picsum.photos/id/21/500/310", "https://picsum.photos/id/25/500/310", "https://picsum.photos/id/26/500/310"],
         "soporte": "textil",
         "abstract": "Calzado diseñado para un usuario específico",
@@ -50,6 +57,7 @@
     },
     {
         "nombre": "Celtic",
+        "alt": "Descripción",
         "fotos": ["https://picsum.photos/id/90/500/310", "https://picsum.photos/id/91/500/310", "https://picsum.photos/id/92/500/310"],
         "soporte": "textil",
         "abstract": "Vestuario para artes escénicas y competencia",
