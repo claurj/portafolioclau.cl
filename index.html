@@ -230,7 +230,7 @@
     <!-- Lo que sigue es JavaScript a secas-->
     <script>
       async function portfolio() {
-        const consulta = await fetch("https://raw.githubusercontent.com/claurj/dnm-E3-c12/main/trabajos.json");
+        const consulta = await fetch("https://raw.githubusercontent.com/claurj/portafolioclau.cl/main/trabajos.json");
         const data = await consulta.json();
         var donde = document.querySelector("#trabajos");
         data.forEach(function(t, i) {
